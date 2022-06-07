@@ -10,7 +10,7 @@
 
 ```bash
 # Clonning repo
-git clone [https://gitlab.com/lupacan/mobile-lupacan.git](https://github.com/roycuenca/Uber-Clon-RN)
+git clone https://github.com/roycuenca/Uber-Clon-RN
 
 cd Uber-Clon-RN
 yarn or npm i
